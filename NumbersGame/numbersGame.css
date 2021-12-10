@@ -1,0 +1,8 @@
+/* CSS Style Sheet for Number Guessing Game */
+body{
+	background-color: black;
+	background-image: url("background_numbers.jpg");
+	background-repeat: repeat;
+	text-align: center;
+	color:white;
+	}
